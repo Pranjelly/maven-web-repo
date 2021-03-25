@@ -8,7 +8,7 @@ public class EmpView {
 		
 		Employee e = new Employee();
 		e.setEmp_id(100);
-		e.setEmp_name("Harry");
+		e.setEmp_name("Harryyyyyyyyyyyy");
 		
 		System.out.println(e.getEmp_id());
 		System.out.println(e.getEmp_name());
